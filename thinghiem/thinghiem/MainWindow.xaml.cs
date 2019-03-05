@@ -34,6 +34,13 @@ namespace thinghiem
 
         }
 
-     
+      
+        private void Btnhello1_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(
+               "thông báo",
+               "chào các bạn hihi"
+               );
+        }
     }
 }
