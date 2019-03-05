@@ -29,7 +29,7 @@ namespace thinghiem
         {
             MessageBox.Show(
                 "thông báo",
-                "chào các bạn "
+                "chào các bạn 1"
                 );
 
         }
