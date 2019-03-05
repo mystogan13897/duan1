@@ -38,7 +38,7 @@ namespace thinghiem
         {
             MessageBox.Show(
                "thông báo",
-               "chào các bạn 2"
+               "chào các bạn 2 mình là người mới "
                );
         }
     }
