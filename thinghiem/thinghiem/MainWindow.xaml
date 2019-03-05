@@ -14,6 +14,11 @@
             Width="100"
             Content="show"
             Click="Btn_Click"/>
-        
+        <Button
+            x:Name="btnhello1"
+            Height="30"
+            Width="100"
+            Content="chào" Margin="483,194,209,195"
+            Click="Btnhello1_Click"/>
     </Grid>
 </Window>
