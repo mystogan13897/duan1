@@ -12,6 +12,7 @@
             x:Name="btn"
             Height="50"
             Width="100"
-            Content="show"/>
+            Content="show"
+            Click="Btn_Click"/>
     </Grid>
 </Window>
